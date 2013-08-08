@@ -25,7 +25,7 @@ See also https://github.com/clear-code/commit-comment-tools .
 anonymous.txt:
 
 ````
-2013-02-01:100%
+2013-02-01:100%:
   groonga/grnxx@a86855b: const specifier じゃなくて const qualifier では？と思って調べたら
   両方の言い方があることがわかった。gcc のメッセージでは qualifier が使われてたような気がする。
 2013-01-31:90%:
